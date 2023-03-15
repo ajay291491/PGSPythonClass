@@ -1,3 +1,19 @@
+"""
+Assessment & Comments
+. Good
+- Working program and meet the purpose of logic
+- print statement are very clear
+
+. Areas to Improve
+- Avoid capital letters in variable names
+
+ * Marks *
+Working program : 5/5
+Code Quality    : 2/3
+Comments used   : 2/2
+Total           : 9/10
+"""
+
 Eng = float(input("What are your marks in English?"))
 Lang_2 = float(input("What are your marks in Lang 2?"))
 Maths = float(input("What are your marks in Maths?"))
