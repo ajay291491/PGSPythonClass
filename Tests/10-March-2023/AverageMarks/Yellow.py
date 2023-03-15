@@ -1,4 +1,6 @@
 """
+Team : Yellow (Basani Srinivasa Aditya, Utkarsha Pande, Satnam Arvind Dhondphale)
+
 Assessment & Comments
 . Good
 - Working program and meet the purpose of logic

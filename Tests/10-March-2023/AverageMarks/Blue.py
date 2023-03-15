@@ -1,4 +1,6 @@
 """
+Team : Blue (Surya Shankar, Jakkula Sree Sahasra Krishna, Reethu Reddy Yakasiri)
+
 Assessment & Comments
 . Good
 - Working program and meet the purpose of logic
