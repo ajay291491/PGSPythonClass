@@ -1,3 +1,16 @@
+"""
+Assessment & Comments
+- User unable to identify which subject they need to provide marks
+- english=int(input("enter marks"))  can be written as english=int(input("enter marks for the Subject English : "))
+- print statement can be written better
+
+ * Marks *
+Working program : 5/5
+Code Quality    : 2/3
+Comments used   : 1/2
+Total           : 8/10
+"""
+
 english=int(input("enter marks"))
 lang=int(input("enter marks"))
 Math=int(input("enter marks"))
